@@ -32,7 +32,7 @@
                 <div class="p-1 h1 text-primary text-center mx-auto display-inline-block">
                     <i class="fa fa-check-square-o bg-primary text-white rounded p-2"></i>
                     <u>Simple To Do List</u>
-                    <h6>Github Repository:<a href="" target = "_blank"></a></h6>
+                    
                 </div>
             </div>
         </div>
@@ -157,6 +157,7 @@
                   </table>
             
     </div>
+    <h6>Github Repository:<a href="https://github.com/michaelrilan/todo_list" target = "_blank">click here</a></h6>
 
 
 
